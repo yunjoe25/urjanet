@@ -4,8 +4,6 @@
  * 	10/28/2016 						     *
  * 								         *
  * * * * * * * * * * * * * * * * * * * * */
-package programming_test;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 
